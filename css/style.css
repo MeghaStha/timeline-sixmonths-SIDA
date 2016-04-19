@@ -29,6 +29,9 @@ a {
 
 img {
   max-width: 100%;
+top: 2.5%;
+position: absolute;
+right: -18%;
 }
 
 h1, h2 {
